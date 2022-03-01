@@ -1,8 +1,6 @@
 ## Automated Python Marker
 
-Hello
-
-<a href="pythonMarker.exe" download>Click to Download</a>
+<a href="pythonMarker.exe" download>Click to Download for Windows</a>
 
 ### About the project
 
