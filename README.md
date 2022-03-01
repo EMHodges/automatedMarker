@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Automated Python Marker
 
 You can use the [editor on GitHub](https://github.com/EMHodges/automatedMarker/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
