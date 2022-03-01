@@ -1,7 +1,5 @@
 ## Automated Python Marker
 
-<a href="pythonMarker.exe" download>Click to Download for Windows</a>
-
 ### About the project
 
 Hi, I'm Elizabeth Hodges and have created an app that marks programming assessments for my third year Computer Science project. I will be analysing how the marks awarded differ from the marks given by Lilian's current marking system.
