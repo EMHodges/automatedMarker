@@ -23,7 +23,7 @@ Navigate to the following in a web-browser (Chrome is recommended) to open the a
 #### Submitting results
 Once you have finished attempting the questions navigate to the submissions page ```http://127.0.0.1:8000/submit``` and click the submit button. Note that this will not submit your answers, it will however cause a yaml file to be downloaded. 
 
-To submit your results please email this yaml file to ```emh566@york.ac.uk``.
+To submit your results please email this yaml file to ```emh566@york.ac.uk```.
 
 #### Technical difficulties?
 Please email me at ```emh566@york.ac.uk``` and I'll be happy to help :)
@@ -32,7 +32,7 @@ Please email me at ```emh566@york.ac.uk``` and I'll be happy to help :)
 Please read this section carefully before participating. I will take receiving an e-mail containing an answer file as consent for participating in this project. 
 
 #### What data will be collected?
-Your answer to each question, the marks awarded and the results of the test cases will be collected. No hidden or personal data will be collected. You can view the data that will be submitted by opening the yaml file that is created when you click submit. Note the answers are not submitted at this point. Your answers will only be submitted when you email your results to ``emh566@york.ac.uk```.
+Your answer to each question, the marks awarded and the results of the test cases will be collected. No hidden or personal data will be collected. You can view the data that will be submitted by opening the yaml file that is created when you click submit. Note the answers are not submitted at this point. Your answers will only be submitted when you email your results to ```emh566@york.ac.uk```.
 
 #### Who will see my answers?
 Your answers will be seen by myself as the primary researcher and my supervisor Lilian Blot. Any data included in the write-up of the report or shared with other researchers at the Univeristy of York will be completely anonymized.
